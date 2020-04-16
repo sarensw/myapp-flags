@@ -1,6 +1,0 @@
-{
-  // backup flags
-  "backupEnabled": true,
-  "backupInterval": 1000,
-  "backupFileFormats": "xlsx|csv"
-}
