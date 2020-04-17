@@ -1,6 +1,6 @@
 {
   // backupe features
-  "backupEnabled": true,
+  "backupEnabled": flags,
   "backupInterval": 10,
   "backupFileFormats": "xlsx|csv"
 }
